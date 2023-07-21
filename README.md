@@ -1,2 +1,2 @@
 # Design-demo
-This is a Design Demo
+This is a design example
